@@ -6,7 +6,6 @@ I really enjoy watching football and some of the biggest controversies on Sunday
 
 ## Figure 1
 
-<img src="https://raw.githubusercontent.com/isiverWSU/115_Personal_DataSet_Project/main/HomeAwayPenalty.png">
-Each of the points in the figure above represent an NFL Team. 
-They lie on the scatterplot in relation to how many penalties were recieved at home games versus away games. 
+<img src="">
+The teams above lie on the scatter plot in relation to how many penatlies they received at home games and how many they received while away.
 This data is based on penalties received during the 2020 NFL Regular Season. 
