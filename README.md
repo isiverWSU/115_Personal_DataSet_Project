@@ -1,10 +1,10 @@
 # 115_Personal_Dataset_Project
 The reposition contain the files and code for my personal data set project. 
 
-## Motivation
+# Motivation
 I really enjoy watching football and some of the biggest controversies on Sundays can come from penalties. 
 
-## Data Process
+# Data Process
 The source of all this penalty data comes from a program called “nflfastR”. This “nflfastR” is a set of functions that efficiently
 scrapes play-by-play data from the NFL. There is a ton of play-by-play data including first downs, yards per play, etc. but I only selected the data on penalties. This data is perfect for answering questions like which team was penalized the most on
 the road last year? What about at home? The only real data processing was making sure there is data for each of the 32 teams and no duplicates.  
@@ -18,4 +18,4 @@ This data is based on penalties received during the 2020 NFL Regular Season.
 
 ## Figure 2
 
-
+# Analysis 
