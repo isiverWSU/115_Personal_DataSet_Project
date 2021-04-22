@@ -17,4 +17,12 @@ This data is based on penalties received during the 2020 NFL Regular Season.
 
 ## Figure 2
 
+<img src="https://raw.githubusercontent.com/isiverWSU/115_Personal_DataSet_Project/main/Figure%202%20-%20HomeVersusAway2.png">
+Caption: Here is the same scatter plot from Figure 1 but clustered by teams who have more penalties at home or away. 
+
+##Figure 3
+
+<img src="https://raw.githubusercontent.com/isiverWSU/115_Personal_DataSet_Project/main/Figure3-NetPenaltiesBarChart.png">
+Caption: This is a bar chart representing each teams net amount of flags. The positive bars represent teams that had more penalties at home games while the negative bars indicate teams that had more penalties at away games. I added a color key to make it more distinguishable. 
+
 # Analysis 
